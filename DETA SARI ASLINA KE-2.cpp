@@ -2,6 +2,7 @@
 #include<ncurses\ncurses.h>
 #include<windows.h>
 using namespace std;
+
 int main(){
 	//DETA SARI ASLINA
 	//2217051117
