@@ -20,11 +20,11 @@ int main(){
     cout<<endl<<"\n\n\n\t\t\t\t\tL O A D I N G . . . "<<i<<"%"<<endl;
     system("cls");
     }
-	cout<<"\n\n\n\t\t\t\t\t......... postest ddp ........."<<endl;
+    cout<<"\n\n\n\t\t\t\t\t......... postest ddp ........."<<endl;
     cout<<"\n\n\n\t\t\t\t\t................................"<<endl;
     cout<<"\n\n\n\t\t\t\t\t................................"<<endl;
-	cout<<"\n\n\n\t\t\t\t\t........LOADING COMPLETE........"<<endl;
-	cout<<"\n\n\n\t\t\t\t\t................................"<<endl;
+    cout<<"\n\n\n\t\t\t\t\t........LOADING COMPLETE........"<<endl;
+    cout<<"\n\n\n\t\t\t\t\t................................"<<endl;
     cout<<"\n\n\n\t\t\t\t\t................................"<<endl;
     cout<<"\n\n\n\t\t\t\t\t.........detasariaslina.........";
     system("pause>0");
